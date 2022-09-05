@@ -1,6 +1,6 @@
 # Wikipedia-Text-Summarization
 
-This is a short but fun project (i have a lot of ideas) i have always wanted to work on and finally got the chance to.
+This is a short but fun project i have always wanted to work on (i have a lot of ideas) and finally got the chance to.
 
 I'm looking forward to utilizing NLP to come up with better, full fleshed projects
 
